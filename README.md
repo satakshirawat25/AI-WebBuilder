@@ -1,16 +1,20 @@
-# React + Vite
+AI Website Builder (Web Builder)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered website builder built with ReactJS and TailwindCSS that allows users to create, preview, and download complete website layouts using Generative AI.
+This project simplifies website creation — just describe your idea, and the AI instantly builds the structure and design for you.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🤖 AI Integration: Generate website code using Google GenAI (Gemini)
 
-## Expanding the ESLint configuration
+⚡ Real-time Preview: Instantly view generated code in a live editor
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🖥️ Open in New Tab: View your AI-created website in a new browser tab
+
+📥 Download Feature: Download HTML/CSS/JS files of your generated site
+
+🌙 Dark/Light Mode: Toggle between UI themes
+
+💬 Responsive Design: Fully responsive layout using TailwindCSS

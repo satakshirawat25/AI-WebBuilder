@@ -1,20 +1,25 @@
-AI Website Builder (Web Builder)
-
 An AI-powered website builder built with ReactJS and TailwindCSS that allows users to create, preview, and download complete website layouts using Generative AI.
-This project simplifies website creation — just describe your idea, and the AI instantly builds the structure and design for you.
-
-
+Just describe your idea — the AI instantly generates a responsive website layout for you. ⚡
 
 🚀 Features
 
-🤖 AI Integration: Generate website code using Google GenAI (Gemini)
+🤖 AI-Powered Website Generation
 
-⚡ Real-time Preview: Instantly view generated code in a live editor
+🖥️ Live Preview of generated websites
 
-🖥️ Open in New Tab: View your AI-created website in a new browser tab
+🔗 Open in New Tab to view the result
 
-📥 Download Feature: Download HTML/CSS/JS files of your generated site
+📥 Download Generated Code (HTML, CSS, JS)
 
-🌙 Dark/Light Mode: Toggle between UI themes
+🌙 Dark/Light Mode toggle
 
-💬 Responsive Design: Fully responsive layout using TailwindCSS
+⚡ Fast and Responsive UI with TailwindCSS
+
+Tech Stack
+
+Frontend: ReactJS, Vite, TailwindCSS
+AI API: Google GenAI (Gemini)
+Icons: React Icons
+Animations: Framer Motion
+Loader: React Spinners (FadeLoader)
+State Management: React Hooks (useState, useEffect)
